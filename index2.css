@@ -1,0 +1,57 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.top{
+    text-align: center;
+   width: 1000px;
+
+}
+.h1,.span,.div{
+color: darkcyan;
+}
+.h1,span,.right{
+    color: darkblue;
+}
+.top h1{   
+text-align: center;
+margin: 50px auto;
+font-size: 60px;
+
+}
+.left{ 
+    text-align: justify;
+text-align: right;
+float: right;
+margin:100px 10px;
+padding: 40px;
+
+
+}
+.div_input input{
+    padding: 20px 20px;
+    margin-left: 300px;
+}
+.meddil button{
+    text-decoration: none;
+    text-transform: capitalize;
+transform: matrix(400px);
+text-align: right;
+width: 160px;
+background-color:grey;
+color:darkblue;
+text-align: center;
+margin: 10px ;
+}
+.div img{
+    width:200px;
+ margin-left: 0px 5px;
+
+}
+
+/* menubar starts from here */
+
+.menubar{
+    padding: 0%;
+    margin: 0%;
+}
